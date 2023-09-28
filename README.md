@@ -21,7 +21,7 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     1. [Lecture Notebook](Week3/STA410_W24_Week3_Lecture_HighDimentionalIntegration.ipynb)
     2. [Coding Demo: Adaptive Squeezed Rejection Sampling](Week3/STA410_W24_Week3_Demo_HMCwithPyMC_.ipynb)
     3. [Homework: Probabilistic Programming](Week3/STA410_W24_Week3_Homework_ProbabilisticProgrammingPyMC_takefromsta365kaggle.txt)
-    4. [Extra Coding: `PgMC` `python`](Week3/STA410_W24_Week3_Extra_PyMCPython_ProbabilisticProgramming.ipynb)
+    4. [Extra Coding: `PyMC` `python`](Week3/STA410_W24_Week3_Extra_PyMCPython_ProbabilisticProgramming.ipynb)
     5. [Extra Reading: MCMC Diagnostics and Theory](Week3/STA410_W24_Week3_Extra_MCMCdiagnosticsAndTheory.ipynb)
 4. Numerical error and Numerical linear algebra (floating point behaviour, SVD)
 5. Direct methods and Randomized linear algebra (SVD/PCA)
