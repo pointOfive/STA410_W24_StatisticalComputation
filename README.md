@@ -4,8 +4,25 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
 ## Course Topics
 
 1. Sampling: Inverse CDF, Rejection, and Importance Sampling
-2. Estimation: Monte Carlo (MC) integration, estimation error, improving efficiency, correlated estimators (antithetic sampling and control variates)
-3. High dimensional integration: Gibbs Sampling, Slice Sampling, (MCMC)
+    1. [Lecture Notebook](Week1/STA410_W24_Week1_Lecture_Sampling.ipynb)
+    2. [Coding Demo: `python` speed](Week1/STA410_W24_Week1_CodingDemo_MemoryUsage.ipynb)
+    3. [Homework: Modulus ](Week1/STA410_W24_Week1_Homework_ModulusRecursion.ipynb)[Recursion](https://www.google.com/search?q=recursion)
+    4. [Extra Coding: New to `python`?](Week1/STA410_W24_Week1_NewToPython_IntegerBinaryRepresentation.ipynb)
+    5. [Extra Reading: Pseudorandomnes and Floating-point numbers](Week1/STA410_W24_Week1_Extra_PseudorandomnesAndComputerRepresentation.ipynb)
+2. Estimation: Monte Carlo (MC) integration, estimation error, improving efficiency, antithetic sampling and control variates (correlation) 
+    1. [Lecture Notebook](Week2/STA410_W24_Week2_Lecture_Estimation.ipynb)
+    2. [Coding Demo: Adaptive Squeezed Rejection Sampling](Week2/STA410_W24_Week2_Demo_AdaptiveRejectionSampling.ipynb)
+    3. [Homework: Integration Estimation](Week2/STA410_W24_Week2_Homework_EstimationViaSampling.ipynb)
+    4. [Extra Reading: Integral Approximation](Week2/STA410_W24_Week2_Extra_IntegralApproximation.ipynb)       
+    5. [Extra Reading: Importance Sampling Bias](Week2/STA410_W24_Week2_Extra_ImportanceSamplingBias.ipynb)
+    6. [Extra Coding: Importance Sampling Hidden Markov Models (HMMs)](Week2/STA410_W24_Week2_Extra_AdvancedPython_ImportanceSamplingHMMs.ipynb)
+    7. [Extra Reading: HMMs](Week2/STA410_W24_Week2_Extra_XiaoxuanHan_HMM_LikelihoodStateInference_ForwardViterbiBaum-Welch.pptx)
+3. Markov Chain Monte Carlo (MCMC): High dimensional integration, Gibbs Sampling, Slice Sampling, Metropolis-Hastings, `PyMC`, Hamiltonian Monte Carlo (HMC)
+    1. [Lecture Notebook](Week3/STA410_W24_Week3_Lecture_HighDimentionalIntegration.ipynb)
+    2. [Coding Demo: Adaptive Squeezed Rejection Sampling](Week3/STA410_W24_Week3_Demo_HMCwithPyMC_.ipynb)
+    3. [Homework: Probabilistic Programming](Week3/STA410_W24_Week3_Homework_ProbabilisticProgrammingPyMC_takefromsta365kaggle.txt)
+    4. [Extra Coding: `PgMC` `python`](Week3/STA410_W24_Week3_Extra_PyMCPython_ProbabilisticProgramming.ipynb)
+    5. [Extra Reading: MCMC Diagnostics and Theory](Week3/STA410_W24_Week3_Extra_MCMCdiagnosticsAndTheory.ipynb)
 4. Numerical error and Numerical linear algebra (floating point behaviour, SVD)
 5. Direct methods and Randomized linear algebra (SVD/PCA)
 6. Coding Challenge
