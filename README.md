@@ -25,7 +25,7 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     5. [Extra Reading: MCMC Diagnostics and Theory](Week3/STA410_W24_Week3_Extra_MCMCdiagnosticsAndTheory.ipynb)
 4. Numerical error and Numerical linear algebra (floating point behaviour and SVD)
     1. [Lecture Notebook](Week4/STA410_W24_Week4_Lecture_NumericalErrors.ipynb)
-    2. [Prerequesites: Analog versus Digital and Bitstrings](Week4/STA410_W24_Week4_Prerequesite_LinearAlgebra.ipynb)
+    2. [Prerequesites: Linear Algebra](Week4/STA410_W24_Week4_Prerequesite_LinearAlgebra.ipynb)
     3. [Coding Demo: Uses of Singular Value Decomposition (SVD)](Week4/STA410_W24_Week4_Demo_SVDmatters.ipynb)
     4. [Homework: Numerical Precision for Summation and Variation](Week4/STA410_W24_Week4_Homework_AdditionVariance.ipynb)
     5. [Extra Reading: Analog versus Digital and Bitstrings](Week4/STA410_W24_Week4_Extra_AnalogVsDigital_BitstringArithmatic_GracefulUnderflow.ipynb)
