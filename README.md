@@ -25,15 +25,23 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     5. [Extra Reading: MCMC Diagnostics and Theory](Week3/STA410_W24_Week3_Extra_MCMCdiagnosticsAndTheory.ipynb)
 4. Numerical precision and error and condition and linear algebra (floating point behaviour and SVD)
     1. [Lecture Notebook](Week4/STA410_W24_Week4_Lecture_NumericalErrors.ipynb)
-    2. No Coding Demo this week: long lecture; the prerequesite reading is important; the coding homework is a little longer than usual
+    2. No Coding Demo this week: long lecture; the ***prerequesite*** reading is important; ***Coding Demo*** moved to the ***Homework*** (so it's a little longer than usual)
     3. [Prerequesites: Linear Algebra](Week4/STA410_W24_Week4_Prerequesite_LinearAlgebra.ipynb)
     4. [Homework: Numerical Precision for Means and Variances](Week4/STA410_W24_Week4_Homework_AdditionVariance.ipynb)
     5. [Extra Reading: Analog versus Digital Arithmatic](Week4/STA410_W24_Week4_Extra_AnalogVsDigital_BitstringArithmatic_GracefulUnderflow.ipynb)
-5. Direct methods and Randomized linear algebra (SVD/PCA)
+5. Linear Algebra: SVD, PCA/ICA/PRC, Condition, Regression VIFs, and Matrix Decompositions for Least Squares
+    1. [Prerequesites: Linear Algebra](Week4/STA410_W24_Week4_Prerequesite_LinearAlgebra.ipynb) ***still applicable from last week***
+    2. [Lecture Notebook](Week5/STA410_W24_Week5_Lecture_UsingLinearAlgebra.ipynb)
+    3. [Coding Demo: Least Squares](Week5/STA410_W24_Week5_Demo_LeastSquares.ipynb)
+    4. [Homework: Randomized Linear Algebra](Week5/STA410_W24_Week5_Homework_RandomizedLinearAlgebra.ipynb)
+    5. [Extra Coding: Gram-Schmidt and the Cholesky](Week5/STA410_W24_Week5_Extra_LinearAlgebraAlgorithms.ipynb)
+    6. [Extra Coding: More Least Squares](Week5/STA410_W24_Week5_Extra_MoreLeastSquares.ipynb)
+    7. [Extra Reading: Computational Speed and Complexity](Week5/STA410_W24_Week5_Extra_SpeedAndBigOAlgorithmicComplexity.ipynb)
+    8. [Extra Reading: Matrix Condition Numbers](Week5/STA410_W24_Week5_Extra_DerivingMatrixCondition.ipynb)
 6. Coding Challenge
 7. Reading Week
 8. Midterm
-9. PCA, Regression
+9. Interative versus Direct methods
 10. Optimization (MLE, VI)
 11. Iterative Methods (Newton’s Method, Fisher Scoring, IRLS, non L2 loss, nonlinear Gauss-Seidel)
 12. Constrained optimization (e.g., EM algorithm)
