@@ -46,8 +46,13 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     2. [Lecture Notebook](Week6/STA410_W24_Week6_Lecture_IterativeMethods.ipynb) (includes coding demos; and, maybe has material that will end up as "extra"?)
     3. [Homework: Gradient Descent](Week6/STA410_W24_Week6_Homework_GradientDescent.ipynb)
     4. [Extra Coding: Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_ConjugateGradientDescent.ipynb)
-11. Optimization (MLE, VI)
-12. Newton’s Method, Fisher Scoring, IRLS, non L2 loss, nonlinear Gauss-Seidel
-13. Constrained optimization (e.g., EM algorithm)
-14. Coding Challenge
-15. Final
+10. Optimization, Hessians and Jacobians, Maximum Likelihood Estimation (Score function, etc.), Variational Inference, and Newton's Method
+    1. [Lecture Notebook](Week7/STA410_W24_Week7_Lecture_Optimization.ipynb)
+    2. [Coding Demo: Optimization with Nonlinear Gauss-Seidel](Week6/STA410_W24_Week7_CodingDemo_NLGS_notNewtons.ipynb)
+    3. [Homework: Newton's Method](Week6/STA410_W24_Week7_Homework_NewtonsMethod.ipynb)
+    4. [Extra Reading: Variants on Newton's Method and Convergence Considerations](Week7/STA410_W24_Week7_Extra_NewtonVariantsConvergence.ipynb	)
+    5. [Extra Coding: Newton's Method versus Secant, Fixed-Point Iteration, etc.](Week7/STA410_W24_Week7_Extra_NewtonVsSecantVsFixedPointIteration.ipynb)
+11. IRLS, non L2 loss, nonlinear Gauss-Seidel
+12. Constrained optimization (e.g., EM algorithm)
+13. Coding Challenge
+14. Final
