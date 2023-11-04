@@ -49,10 +49,15 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
 10. Optimization, Hessians and Jacobians, Maximum Likelihood Estimation (Score function, etc.), Variational Inference, and Newton's Method
     1. [Lecture Notebook](Week7/STA410_W24_Week7_Lecture_Optimization.ipynb)
     2. [Coding Demo: Optimization with Nonlinear Gauss-Seidel](Week6/STA410_W24_Week7_CodingDemo_NLGS_notNewtons.ipynb)
-    3. [Homework: Newton's Method](Week6/STA410_W24_Week7_Homework_NewtonsMethod.ipynb)
+    3. [Homework: Newton's Method](Week7/STA410_W24_Week7_Homework_NewtonsMethod.ipynb)
     4. [Extra Reading: Variants on Newton's Method and Convergence Considerations](Week7/STA410_W24_Week7_Extra_NewtonVariantsConvergence.ipynb	)
     5. [Extra Coding: Newton's Method versus Secant, Fixed-Point Iteration, etc.](Week7/STA410_W24_Week7_Extra_NewtonVsSecantVsFixedPointIteration.ipynb)
-11. IRLS, non L2 loss, nonlinear Gauss-Seidel
+11. Newton's Method Sandwich Estimators and IRLS (iteratively reweighted keast squares) (including M and Quasi-Likelihood estimation)
+    1. [Lecture Notebook](Week8/STA410_W24_Week8_Lecture_IRLS.ipynb)
+    2. [STRONGLY Recommended Extra Reading: Modern Optimizers are Newton's Method simplificaitons](STA410_W24_Week8_STRONGLYRecommended_Optimizers.ipynb)
+    3. [Homework: Logistic Regression via IRLS](Week8/STA410_W24_Week8_Homework_LogisticRegressionIRLS.ipynb
+    4. [Coding Demo: Gauss-Newton](Week8/STA410_W24_Week8_CodingDemo_GaussNewton.ipynb)
+    5. [Extra Coding: Huber Loss](Week8/STA410_W24_Week8_Extra_HuberLossIRLS.ipynb)
 12. Constrained optimization (e.g., EM algorithm)
 13. Coding Challenge
 14. Final
