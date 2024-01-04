@@ -41,7 +41,7 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
 6. Coding Challenge
 7. Reading Week
 8. Midterm
-9. Interative Methods: Gauss-Seidel (GS), Successive Overrelaxation, Coordinate Descent (Nonlinear GS), Line Search, Gradient Descent, etc.
+9. Iterative Methods: Gauss-Seidel (GS), Successive Overrelaxation, Coordinate Descent (Nonlinear GS), Line Search, Gradient Descent, etc.
     1. As opposed to Direct Methods (from Week 5)...
     2. [Lecture Notebook](Week6/STA410_W24_Week6_Lecture_IterativeMethods.ipynb) (includes coding demos; and, maybe has material that will end up as "extra"?)
     3. [Homework: Gradient Descent](Week6/STA410_W24_Week6_Homework_GradientDescent.ipynb)
