@@ -55,7 +55,7 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
 11. Newton's Method Sandwich Estimators and IRLS (iteratively reweighted keast squares) (including M and Quasi-Likelihood estimation)
     1. [Lecture Notebook](Week8/STA410_W24_Week8_Lecture_IRLS.ipynb)
     2. [STRONGLY Recommended Extra Reading: Modern Optimizers are Newton's Method simplificaitons](STA410_W24_Week8_STRONGLYRecommended_Optimizers.ipynb)
-    3. [Homework: Logistic Regression via IRLS](Week8/STA410_W24_Week8_Homework_LogisticRegressionIRLS.ipynb
+    3. [Homework: Logistic Regression via IRLS](Week8/STA410_W24_Week8_Homework_LogisticRegressionIRLS.ipynb)
     4. [Coding Demo: Gauss-Newton](Week8/STA410_W24_Week8_CodingDemo_GaussNewton.ipynb)
     5. [Extra Coding: Huber Loss](Week8/STA410_W24_Week8_Extra_HuberLossIRLS.ipynb)
 12. Constrained optimization (e.g., EM algorithm)
