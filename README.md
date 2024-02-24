@@ -41,12 +41,15 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
 6. Coding Challenge
 7. Reading Week
 8. Midterm
-9. Iterative Methods: Gauss-Seidel (GS), Successive Overrelaxation, Coordinate Descent (Nonlinear GS), Line Search, Gradient Descent, etc.
-    1. As opposed to Direct Methods (from Week 5)...
-    2. [Lecture Notebook](Week6/STA410_W24_Week6_Lecture_IterativeMethods.ipynb) (includes coding demos; and, maybe has material that will end up as "extra"?)
+9. From (Week 5) ***Direct Methods*** to ***Iterative Methods***: Gauss-Seidel (GS), Successive Overrelaxation, Coordinate Descent (and Nonlinear GS), and Gradient Descent
+    1. [Lecture Notebook](Week6/STA410_W24_Week6_Lecture_IterativeMethods.ipynb) [75 minutes]
+    2. Coding Demo: Splines, smoothing matrices (lowess/loess), generalized additive models (GAMs) [75 minutes]
     3. [Homework: Gradient Descent](Week6/STA410_W24_Week6_Homework_GradientDescent.ipynb)
-    4. [Extra Coding: Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_ConjugateGradientDescent.ipynb)
-10. Optimization, Hessians and Jacobians, Maximum Likelihood Estimation (Score function, etc.), Variational Inference, and Newton's Method
+    4. Extra Reading: Optimization regularization / Penalty functions
+    5. Extra Reading: Line Search to find optimal step sizes
+    6. Extra Reading: Conjugate Gradient Descent
+    7. [Extra Coding: Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_ConjugateGradientDescent.ipynb)
+10. Optimization, Hessians and Jacobians, Maximum Likelihood Estimation (Score function, etc.) and Newton's Method
     1. [Lecture Notebook](Week7/STA410_W24_Week7_Lecture_Optimization.ipynb)
     2. [Coding Demo: Optimization with Nonlinear Gauss-Seidel](Week6/STA410_W24_Week7_CodingDemo_NLGS_notNewtons.ipynb)
     3. [Homework: Newton's Method](Week7/STA410_W24_Week7_Homework_NewtonsMethod.ipynb)
@@ -58,6 +61,6 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     3. [Homework: Logistic Regression via IRLS](Week8/STA410_W24_Week8_Homework_LogisticRegressionIRLS.ipynb)
     4. [Coding Demo: Gauss-Newton](Week8/STA410_W24_Week8_CodingDemo_GaussNewton.ipynb)
     5. [Extra Coding: Huber Loss](Week8/STA410_W24_Week8_Extra_HuberLossIRLS.ipynb)
-12. Constrained optimization (e.g., EM algorithm)
+12. Variational Inference, EM algorithm, Deep Learning (no Constrained optimization)
 13. Coding Challenge
 14. Final
