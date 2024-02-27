@@ -43,7 +43,7 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
 8. Midterm
 9. From (Week 5) ***Direct Methods*** to ***Iterative Methods***: Gauss-Seidel (GS), Successive Overrelaxation, Coordinate Descent (and Nonlinear GS), and Gradient Descent
     1. [Coding Demo: Splines, smoothing matrices (lowess/loess), generalized additive models (GAMs)](Week6/STA410_W24_Week6_Demo_FunctionRepresentation.ipynb)<br>[Including some extra material on optimization regularization and penalty functions]
-    2. [Lecture Notebook](Week6/STA410_W24_Week6_Lecture_IterativeMethods.ipynb) [75 minutes]
+    2. [Lecture Notebook](Week6/STA410_W24_Week6_Lecture_IterativeMethods.ipynb) 
     3. [Homework: Gradient Descent](Week6/STA410_W24_Week6_Homework_GradientDescent.ipynb) 
     4. [Extra Reading: Line Search to find optimal step sizes and Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_LineSearch.ipynb)
     5. [Extra Coding: Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_ConjugateGradientDescent.ipynb)
