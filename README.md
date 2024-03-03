@@ -41,14 +41,14 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
 6. Coding Challenge
 7. Reading Week
 8. Midterm
-9. From (Week 5) ***Direct Methods*** to ***Iterative Methods***: Gauss-Seidel (GS), Successive Overrelaxation, Coordinate Descent (and Nonlinear GS), and Gradient Descent
-    1. [Lecture Notebook](Week6/STA410_W24_Week6_Lecture_IterativeMethods.ipynb) [75 minutes]
-    2. Coding Demo: Splines, smoothing matrices (lowess/loess), generalized additive models (GAMs) [75 minutes]
-    3. [Homework: Gradient Descent](Week6/STA410_W24_Week6_Homework_GradientDescent.ipynb)
-    4. Extra Reading: Optimization regularization / Penalty functions
-    5. Extra Reading: Line Search to find optimal step sizes
-    6. Extra Reading: Conjugate Gradient Descent
-    7. [Extra Coding: Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_ConjugateGradientDescent.ipynb)
+9. From (Week 5) ***Direct Methods*** to ***Iterative Methods***: Gauss-Seidel (GS), Successive Overrelaxation, Coordinate Descent (AKA Nonlinear GS), and Gradient Descent and AutoDiff
+    1. [Coding Demo: Splines, smoothing matrices (lowess/loess), generalized additive models (GAMs)](Week6/STA410_W24_Week6_Demo_FunctionRepresentation.ipynb)<br>[including some extra broader contextual material on basis functions and regularization and penalty functions]
+    2. [Lecture Notebook](Week6/STA410_W24_Week6_Lecture_IterativeMethods.ipynb) 
+    3. [Homework: Gradient Descent](Week6/STA410_W24_Week6_Homework_GradientDescent.ipynb) 
+    4. [Extra Reading: Line Search to find optimal step sizes and Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_LineSearch_ConjugateGradientMethods.ipynb)
+    5. [Extra Coding: Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_ConjugateGradientDescent.ipynb)
+    6. [Extra Reading: Function Spaces](Week6/STA410_W24_Week6_Extra_FunctionSpaces.ipynb)
+    7. [Extra Coding: Lagrange Polynomial Interpolation](Week6/STA410_W24_Week6_Extra_LagrangePolynomialInterpolation.ipynb)
 10. Optimization, Hessians and Jacobians, Maximum Likelihood Estimation (Score function, etc.) and Newton's Method
     1. [Lecture Notebook](Week7/STA410_W24_Week7_Lecture_Optimization.ipynb)
     2. [Coding Demo: Optimization with Nonlinear Gauss-Seidel](Week6/STA410_W24_Week7_CodingDemo_NLGS_notNewtons.ipynb)
