@@ -51,7 +51,7 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     7. [Extra Coding: Lagrange Polynomial Interpolation](Week6/STA410_W24_Week6_Extra_LagrangePolynomialInterpolation.ipynb)
 10. Optimization, Hessians and Jacobians, Gauss-Newton, Maximum Likelihood Estimation (score function, etc.) and Fisher Scoring and Newton's Method
     1. [Lecture Notebook](Week7/STA410_W24_Week7_Lecture_Optimization.ipynb)
-    2. (+ iii) [Coding Demo / Homework Notebook: classical optimization methods in TensorFlow](Week6/STA410_W24_Week7_CodingDemo_NLGS_notNewtons.ipynb)<br>(with Nonlinear Gauss-Seidel, Gradient Descent, Gauss-Newton, Fisher Scoring, and Newton's Method)
+    2. (+ iii) [Coding Demo / Homework Notebook: classical optimization methods in TensorFlow](Week6/STA410_W24_Week7_CodingDemo_and_Homework_Optimization.ipynb)<br>(with Nonlinear Gauss-Seidel, Gradient Descent, Gauss-Newton, Fisher Scoring, and Newton's Method)
     3. ^
     4. [Extra Reading: Variants on Newton's Method and Convergence Considerations](Week7/STA410_W24_Week7_Extra_NewtonVariantsConvergence.ipynb)
     5. [Extra Coding: Newton's Method versus Secant, Fixed-Point Iteration, etc.](Week7/STA410_W24_Week7_Extra_NewtonVsSecantVsFixedPointIteration.ipynb)
