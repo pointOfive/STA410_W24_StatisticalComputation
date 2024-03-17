@@ -55,7 +55,7 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     3. ^
     4. [Extra Reading: Variants on Newton's Method and Convergence Considerations](Week7/STA410_W24_Week7_Extra_NewtonVariantsConvergence.ipynb)
     5. [Extra Coding: Newton's Method versus Secant, Fixed-Point Iteration, etc.](Week7/STA410_W24_Week7_Extra_NewtonVsSecantVsFixedPointIteration.ipynb)
-11. Modern optimizers; but, IRLS (iteratively reweighted keast squares) AKA Newton's Method / Fisher Scoring for M and Quasi-Likelihood estimation are still relevant... (and the "Sandwich Estimator")
+11. Modern optimizers; but, IRLS (iteratively reweighted least squares) AKA Newton's Method / Fisher Scoring for M and Quasi-Likelihood estimation are still relevant... (and the "Sandwich Estimator")
     1. [Lecture Notebook](Week8/STA410_W24_Week8_Lecture_IRLS.ipynb)
     2. [Coding Demo: fitting poisson regression models with Quasi-Likelihood estimation](Week8/STA410_W24_Week8_CodingDemo_QuasiLikelihoodEstimation.ipynb)
     3. [Homework: Logistic Regression via IRLS](Week8/STA410_W24_Week8_Homework_LogisticRegressionIRLS.ipynb)
