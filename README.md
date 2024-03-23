@@ -66,6 +66,6 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     
 12. Generative Modeling: NNs and the Likelihood Principle and Masked Autoencoder Density Estimation (MADE), KL divergence, Variational Inference (VI), Expectation-Maximiation (EM), Variational Autoencoder, Bayes by Backprop, Normalizing Flows (MAFs, IAFs, and Real NVP), and Simulated Annealing
     1. [Lecture Notebook](Week9/STA410_W24_Week9_Lecture_GenerativeModeling.ipynb)
-    2. [Extra Reading: A few more notes](Week9/STA410_W24_Week9_Extra_Copulas.ipynb)
+    2. [Extra Reading: Copulas](Week9/STA410_W24_Week9_Extra_Copulas.ipynb)
 13. Coding Challenge
 14. Final
