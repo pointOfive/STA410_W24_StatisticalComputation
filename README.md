@@ -57,12 +57,13 @@ Third re-build of STA410 Statistical Computation / STA2102 Computational Techniq
     5. [Extra Coding: Newton's Method versus Secant, Fixed-Point Iteration, etc.](Week7/STA410_W24_Week7_Extra_NewtonVsSecantVsFixedPointIteration.ipynb)
 11. Modern optimizers; but, IRLS (iteratively reweighted least squares) AKA Newton's Method / Fisher Scoring for M and Quasi-Likelihood estimation are still relevant... (and the "Sandwich Estimator")
     1. [Lecture Notebook](Week8/STA410_W24_Week8_Lecture_IRLS.ipynb)
-    2. [Coding Demo: fitting poisson regression models with Quasi-Likelihood estimation](Week8/STA410_W24_Week8_CodingDemo_QuasiLikelihoodEstimation.ipynb)
-    3. [Homework: Logistic Regression via IRLS](Week8/STA410_W24_Week8_Homework_LogisticRegressionIRLS.ipynb)
-    4. [Extra Coding: Huber Loss](Week8/STA410_W24_Week8_Extra_HuberLossIRLS.ipynb)
-    5. Extra Topic: Conjugate Gradient Descent for "double iterative" ***Truncated Newton's method***
+    2. [Ziang Coding Demo: fitting poisson regression models with Quasi-Likelihood estimation](Week8/coding_demo_mar20.ipynb)
+    3. [Draft Coding Demo: fitting poisson regression models with Quasi-Likelihood estimation](Week8/STA410_W24_Week8_CodingDemo_QuasiLikelihoodEstimation.ipynb)
+    4. [Homework: Logistic Regression via IRLS](Week8/STA410_W24_Week8_Homework_LogisticRegressionIRLS.ipynb)
+    5. [Extra Coding: Huber Loss](Week8/STA410_W24_Week8_Extra_HuberLossIRLS.ipynb)
+    6. Extra Topic: Conjugate Gradient Descent for "double iterative" ***Truncated Newton's method***
         1. See [Week 6 Extra Reading on Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_LineSearch_ConjugateGradientMethods.ipynb) and [Week 6 Extra Coding on Conjugate Gradient Descent](Week6/STA410_W24_Week6_Extra_ConjugateGradientDescent.ipynb)
-    6. [Extra Reading: A few more notes](Week8/STA410_W24_Week8_Extra_Details.ipynb)
+    7. [Extra Reading: A few more notes](Week8/STA410_W24_Week8_Extra_Details.ipynb)
     
 12. Generative Modeling: NNs and the Likelihood Principle and Masked Autoencoder Density Estimation (MADE), KL divergence, Variational Inference (VI), Expectation-Maximiation (EM), Variational Autoencoder, Bayes by Backprop, Normalizing Flows (MAFs, IAFs, and Real NVP), and Simulated Annealing
     1. [Lecture Notebook](Week9/STA410_W24_Week9_Lecture_GenerativeModeling.ipynb)
